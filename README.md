@@ -20,6 +20,7 @@ If you see this later and wonder what it is:
 this repo was just the very first step in getting comfortable with Git/GitHub.
 
 ## Markdown Playground
+- This line was added as a second test
 
 **Bold text** and *italic text* together.
 
