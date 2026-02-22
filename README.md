@@ -38,9 +38,29 @@ A command I might run: `git status`
 
 More info: [GitHub Docs](https://docs.github.com/)
 
-## Commit Message Examples
+## Commit Message Examples: *Think what will this commit do?*
 
 ### 1. Docs/README changes
 - Update README with GitHub sandbox notes
 - Document how to run payroll micro-team scripts
 - Clarify setup steps for Alliance integration
+
+### 2. Small fixes/tweaks
+- Fix type in sandbox README
+- Tweak time clock example formatting
+- Adjust config example for multi-location payroll
+
+### 3. New example/utility
+- Add example script for payroll command center/hub
+- Add sample config for CO restaurant rollout
+- Add markdown playground section to README
+
+### 4. Refactors/cleanups
+- Refactor README to separate setup and usage
+- Reorganize examples into separate folder
+- Remove outdated Alliance notes
+
+### 5. Meta/project plumbing
+- Add .gitignore for local editor files
+- Add basic folder structure for payroll demos
+- Update repo description and links
