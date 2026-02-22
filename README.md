@@ -18,3 +18,21 @@ This is my first GitHub repository. I’m using it as a safe place to learn GitH
 
 If you see this later and wonder what it is:  
 this repo was just the very first step in getting comfortable with Git/GitHub.
+
+## Markdown Playground
+
+**Bold text** and *italic text* together.
+
+Here’s a quick list:
+- One thing
+- Another thing
+- A third thing
+
+Numbered steps:
+1. Try editing this file
+2. Commit your changes
+3. Look at the commit history
+
+A command I might run: `git status`
+
+More info: [GitHub Docs](https://docs.github.com/)
