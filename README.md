@@ -37,3 +37,10 @@ Numbered steps:
 A command I might run: `git status`
 
 More info: [GitHub Docs](https://docs.github.com/)
+
+## Commit Message Examples
+
+### 1. Docs/README changes
+- Update README with GitHub sandbox notes
+- Document how to run payroll micro-team scripts
+- Clarify setup steps for Alliance integration
